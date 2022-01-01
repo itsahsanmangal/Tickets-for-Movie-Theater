@@ -1,2 +1,2 @@
 # Tickets for Movie Theater
- Seat Selection of a Movie Theater
+ Seat Selection for a Movie Theater
